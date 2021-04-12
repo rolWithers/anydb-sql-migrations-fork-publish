@@ -1,6 +1,6 @@
 {
   "name": "anydb-sql-migrations-fork-publish",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "description": "Database migrations for anydb-sql",
   "main": "lib/index.js",
   "scripts": {
@@ -14,8 +14,7 @@
   "author": "spion",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/spion/anydb-sql-migrations.git"
+    "type": "git"
   },
   "bugs": {
     "url": "https://github.com/spion/anydb-sql-migrations/issues"
