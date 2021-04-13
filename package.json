@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/spion/anydb-sql-migrations",
   "dependencies": {
-    "any-db-mysql-fork-publish": "^0.7.2",
+    "any-db-mysql-fork-publish": "^2.1.4",
     "bluebird": "^2.3.11",
     "lodash": "^4.17.11",
     "yargs": "^1.3.3"
