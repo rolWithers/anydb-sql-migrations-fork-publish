@@ -1,5 +1,5 @@
 {
-  "name": "anydb-sql-migrations-fork-publish",
+  "name": "anydb-sql-migrations",
   "version": "2.4.4",
   "description": "Database migrations for anydb-sql",
   "main": "lib/index.js",
